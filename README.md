@@ -5,7 +5,8 @@ I am a Full Stack Software Engineer with passion for developing performant and s
 ### Currently working on:
 
 #### **Slice**
-Slice is a meal planning and budgeting app, which allows you to create weekly meal plans, keep track of calorie consumption and nutrients, and prepare your grocery shopping list. You can checkout this app by clicking [here](https://slice-henna.vercel.app). Right now, I'm focused on optimizing the performance and adding new features.
+Slice is a meal planning and budgeting app, which allows you to create weekly meal plans, keep track of calorie consumption and nutrients, and prepare your grocery shopping list. Right now, I'm focused on optimizing the performance and adding new features.
+You can see this app in action by clicking [here](https://slice-henna.vercel.app).
 
 ### Favourite technologies
 <p align="left">
