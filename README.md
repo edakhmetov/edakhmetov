@@ -1,4 +1,27 @@
-### Hi there 👋
+### Hey, I'm Eduard! :)
+
+I am a Full Stack Software Engineer with passion for developing performant and scalable applications. I love the process of learning and always look for different ways to improve my skills and knowledge. In my free time I enjoy hiking, playing video games, and watching sports (I'm a huge NBA fan).
+
+### Currently working on:
+
+#### **Slice**
+Slice is a meal planning and budgeting app, which allows you to create weekly meal plans, keep track of calorie consumption and nutrients, and prepare your grocery shopping list. You can checkout this app by clicking [here](https://slice-henna.vercel.app). Right now, I'm focused on optimizing the performance and adding new features.
+
+### Favourite technologies
+<p align="left">
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=c2c2c2" alt="JavaScript" width="40" height="40"/></a> 
+   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=ffffff" alt="TypeScript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=ffffff" alt="MongoDB" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=ffffff" alt="PostgreSQL" width="40" height="40"/> </a>  
+  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=c2c2c2" alt="NodeJS" width="40" height="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=c2c2c2" alt="NodeJS" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://icongr.am/devicon/linux-plain.svg?size=128&color=c2c2c2" alt="NodeJS" width="40" height="40"/> </a>
+</p>
+
+### How to reach me
+- [Linkedin](https://www.linkedin.com/in/eduardakhmetov/)
+- [Email](mailto:eduard.aakhmetov@gmail.com)
 
 <!--
 **edakhmetov/edakhmetov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
