@@ -1,4 +1,4 @@
-### Hey, I'm Eduard! :)
+### Hey, I'm Eduard :wave:
 
 I am a Full Stack Software Engineer with passion for developing performant and scalable applications. I love the process of learning and always look for different ways to improve my skills and knowledge. In my free time I enjoy hiking :hiking_boot:, taking care of my little in-house garden :seedling:, playing video games :video_game:, and watching sports (I'm a huge NBA :basketball: fan).
 
