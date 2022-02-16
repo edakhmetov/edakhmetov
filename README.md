@@ -13,7 +13,7 @@ You can see this app in action by clicking [here](https://slice-henna.vercel.app
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=c2c2c2" alt="JavaScript" width="40" height="40"/></a> 
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=ffffff" alt="TypeScript" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=ffffff" alt="MongoDB" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=ffffff" alt="PostgreSQL" width="40" height="40"/> </a>  
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=c2c2c2" alt="NodeJS" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=c2c2c2" alt="NodeJS" width="40" height="40"/> </a>
