@@ -8,7 +8,7 @@ I am a Full Stack Software Engineer with passion for developing performant and s
 Slice is a meal planning and budgeting app, which allows you to create weekly meal plans, keep track of calorie consumption and nutrients, and prepare your grocery shopping list. Right now, I'm focused on optimizing the performance and adding new features.
 You can see this app in action by clicking [here](https://slice-henna.vercel.app).
 
-### Favourite technologies
+### Favorite technologies
 <p align="left">
     <a href="https://www.javascript.com/" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=c2c2c2" alt="JavaScript" width="40" height="40"/></a> 
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=ffffff" alt="TypeScript" width="40" height="40"/></a>
@@ -16,7 +16,7 @@ You can see this app in action by clicking [here](https://slice-henna.vercel.app
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=ffffff" alt="PostgreSQL" width="40" height="40"/> </a>  
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css" alt="Express" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a>
 </p>
 
